@@ -1,5 +1,6 @@
 package offertest;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * 问题描述：输入一个递增排序的数组和一个数字S，在数组中查找两个数，

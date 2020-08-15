@@ -5,15 +5,16 @@ package offertest;
  * 输出两个链表合成后的链表，
  * 当然我们需要合成后的链表满足单调不减规则。
  */
-public class ListMeger {
-    /*
-public class ListNode {
+class ListNode {
     int val;
     ListNode next = null;
 
     ListNode(int val) {
         this.val = val;
     }
+}
+public class ListMeger {
+    /*
 }*/
     //实现方法
         public ListNode Merge(ListNode list1,ListNode list2) {

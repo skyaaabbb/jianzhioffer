@@ -7,7 +7,7 @@ package offertest;
  */
 
 import java.util.*;
-public class StringBuffer {
+public class StringBuffer01 {
         //Insert one char from stringstream
         HashMap<Character, Integer> map=new HashMap();
         ArrayList<Character> list=new ArrayList<Character>();

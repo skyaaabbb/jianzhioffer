@@ -3,14 +3,6 @@ package offertest;
 /**
  * 问题描述：给一个链表，若其中包含环，请找出该链表的环的入口结点，否则，输出null。
  */
-class ListNode {
-   int val;
-   ListNode next = null;
-
-   ListNode(int val) {
-       this.val = val;
-   }
-}
 public class CircleNodeStart {
     //实现方法
         //找快慢指针的相遇节点
@@ -59,4 +51,15 @@ public class CircleNodeStart {
             }
             return pNode1;
         }
+
+    class ListNode {
+        int val;
+        ListNode next = null;
+
+        ListNode(int val) {
+            this.val = val;
+        }
+    }
 }
+
+

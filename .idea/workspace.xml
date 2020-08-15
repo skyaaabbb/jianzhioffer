@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4fbfdde-b51d-4a88-8672-7be6f75113fd" name="Default Changelist" comment="">
+    <list default="true" id="d4fbfdde-b51d-4a88-8672-7be6f75113fd" name="Default Changelist" comment="剑指offer-第一个只出现一次的字符的位置">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/ZJTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/BiShiTest/Different.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/Bim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/CopyNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/Counts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/ExchangeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/FenPei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/GetMostGlod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/Huiwen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/CTreel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Climb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/DaiJinQuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/LinkedListTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/MInSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/NumberQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PaiDui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PingFen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/ReverWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SortArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/StringTrueOrFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SubStringIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/TryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/YouHui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/Ranse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/RecPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/ShuziChaiFen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/ZhongCao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/newCoder/QingTong01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/newCoder/QingTong03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZJTest/src/newCoder/Qingtong02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTrueOrFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrueOrFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offertest/Number1InNFicc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jianzhioffer/offertest/ArrayListSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jianzhioffer/offertest/ArrayListSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offertest/ArrayListSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/ArrayListSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jianzhioffer/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jianzhioffer/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nod1030.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nod1030.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offertest/CharOfFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/CharOfFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offertest/CircleNodeStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/CircleNodeStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offertest/DiffNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/DiffNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offertest/ListMeger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/ListMeger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offertest/OnlyNumTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/OnlyNumTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offertest/StringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/StringBuffer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offertest/SumAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offertest/SumAndMin.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,38 +83,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#106#107#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简介.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/offertest/ArrayListSearch.java">
+        <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/CTreel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="200">
+              <caret line="32" column="1" lean-forward="true" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#523#532#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,9 +101,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clone</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,8 +117,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Hello.java" />
-        <option value="$PROJECT_DIR$/src/offertest/ArrayListSearch.java" />
+        <option value="$PROJECT_DIR$/src/BigNum.java" />
+        <option value="$PROJECT_DIR$/src/String.java" />
+        <option value="$PROJECT_DIR$/src/StringTrueOrFalse.java" />
+        <option value="$PROJECT_DIR$/src/ShortString.java" />
+        <option value="$PROJECT_DIR$/src/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/SumM.java" />
+        <option value="$PROJECT_DIR$/src/CountTime.java" />
+        <option value="$PROJECT_DIR$/src/EarnMoney.java" />
+        <option value="$PROJECT_DIR$/src/TrueOrFalse.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/Jump.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/Counts.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/Change.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/Flower.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/Bim.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ZJTest/src/CopyNum.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/ExchangeNum.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/MaxNumber.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/FenPei.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/RecPow.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/GetMostGlod.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Teacher.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/CloneTest.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/LinkedListTest01.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Solution.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/NumberQueue.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Dept.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/TryTest.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/ReverWords.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PingFen.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/YouHui.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/DaiJinQuan.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PaiDui.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/newCoder/QingTong01.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/newCoder/Qingtong02.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/newCoder/QingTong03.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/Huiwen.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/Ranse.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/ShuziChaiFen.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/ZhongCao.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/BiShiTest/Different.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/BiShiTest/DuiFangkuai.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/MInSubString.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/StringTrueOrFalse.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SortArr.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Climb.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SubStringIndex.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PP.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SumTest.java" />
+        <option value="$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/CTreel.java" />
       </list>
     </option>
   </component>
@@ -96,11 +188,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <showExcludedFiles Scope="false" ProjectPane="false" />
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,28 +205,100 @@
             <path>
               <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="ZJTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="ZJTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="ZJTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offertest" type="462c0819:PsiDirectoryNode" />
+              <item name="JianzhiOfferJAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590983927819" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597469428063" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="offertest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,13 +312,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ArrayListSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offertest.ArrayListSearch" />
-      <module name="jianzhioffer" />
+  <component name="RunManager" selected="Application.CTreel">
+    <configuration name="CTreel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JianzhiOfferJAVA.CTreel" />
+      <module name="ZJTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offertest.*" />
+          <option name="PATTERN" value="JianzhiOfferJAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Climb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JianzhiOfferJAVA.Climb" />
+      <module name="ZJTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JianzhiOfferJAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JianzhiOfferJAVA.PP" />
+      <module name="ZJTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JianzhiOfferJAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubStringIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JianzhiOfferJAVA.SubStringIndex" />
+      <module name="ZJTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JianzhiOfferJAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JianzhiOfferJAVA.SumTest" />
+      <module name="ZJTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JianzhiOfferJAVA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,7 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListSearch" />
+        <item itemvalue="Application.CTreel" />
+        <item itemvalue="Application.SumTest" />
+        <item itemvalue="Application.PP" />
+        <item itemvalue="Application.SubStringIndex" />
+        <item itemvalue="Application.Climb" />
       </list>
     </recent_temporary>
   </component>
@@ -178,17 +400,201 @@
       <updated>1590921918261</updated>
       <workItem from="1590921922047" duration="6891000" />
       <workItem from="1590933330467" duration="7000" />
-      <workItem from="1590981501757" duration="2374000" />
+      <workItem from="1590981501757" duration="10765000" />
+      <workItem from="1591081097689" duration="3663000" />
+      <workItem from="1591169143844" duration="1037000" />
+      <workItem from="1591236343245" duration="8930000" />
+      <workItem from="1591281440744" duration="271000" />
+      <workItem from="1591281731038" duration="3771000" />
+      <workItem from="1591328225683" duration="7015000" />
+      <workItem from="1591594092248" duration="5667000" />
+      <workItem from="1591674765352" duration="6161000" />
+      <workItem from="1591708834217" duration="6713000" />
+      <workItem from="1591752449378" duration="15817000" />
+      <workItem from="1591797109907" duration="4660000" />
+      <workItem from="1591856322287" duration="8323000" />
+      <workItem from="1591886767632" duration="599000" />
+      <workItem from="1591942522321" duration="11995000" />
+      <workItem from="1592281172068" duration="39000" />
+      <workItem from="1592297018184" duration="4288000" />
+      <workItem from="1592313790752" duration="4259000" />
+      <workItem from="1592361168300" duration="3062000" />
+      <workItem from="1592381710801" duration="4821000" />
+      <workItem from="1592395667430" duration="2872000" />
+      <workItem from="1592466177595" duration="3317000" />
+      <workItem from="1592491187604" duration="6631000" />
+      <workItem from="1592638018551" duration="8305000" />
+      <workItem from="1592710473271" duration="4556000" />
+      <workItem from="1592794836317" duration="597000" />
+      <workItem from="1592827262660" duration="2473000" />
+      <workItem from="1593052946507" duration="45000" />
+      <workItem from="1593671979518" duration="916000" />
+      <workItem from="1593743792268" duration="6910000" />
+      <workItem from="1593918148287" duration="397000" />
+      <workItem from="1594091586255" duration="28000" />
+      <workItem from="1594109173371" duration="20000" />
+      <workItem from="1594906219182" duration="1208000" />
+      <workItem from="1594985980007" duration="4775000" />
+      <workItem from="1595152351822" duration="472000" />
+      <workItem from="1595152865740" duration="948000" />
+      <workItem from="1595476213164" duration="10210000" />
+      <workItem from="1595558221031" duration="3463000" />
+      <workItem from="1595564237028" duration="6934000" />
+      <workItem from="1595992537167" duration="7860000" />
+      <workItem from="1596002556771" duration="5488000" />
+      <workItem from="1596013320575" duration="617000" />
+      <workItem from="1596035376634" duration="557000" />
+      <workItem from="1596122294708" duration="2267000" />
+      <workItem from="1596177411719" duration="3148000" />
+      <workItem from="1596287340679" duration="2153000" />
+      <workItem from="1596425306256" duration="8404000" />
+      <workItem from="1596521001091" duration="4746000" />
+      <workItem from="1596604333305" duration="5621000" />
+      <workItem from="1596714973963" duration="7710000" />
+      <workItem from="1596791612643" duration="2810000" />
+      <workItem from="1596873986954" duration="15579000" />
+      <workItem from="1597051855132" duration="915000" />
+      <workItem from="1597128865427" duration="666000" />
+      <workItem from="1597143668530" duration="13436000" />
+      <workItem from="1597195107606" duration="11218000" />
+      <workItem from="1597306071221" duration="4470000" />
+      <workItem from="1597319490040" duration="8253000" />
+      <workItem from="1597379013032" duration="599000" />
+      <workItem from="1597414924288" duration="1513000" />
+      <workItem from="1597460546301" duration="6401000" />
     </task>
+    <task id="LOCAL-00001" summary="剑指offer-构建乘积数组">
+      <created>1590984055363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590984055363</updated>
+    </task>
+    <task id="LOCAL-00002" summary="剑指offer-构建乘积数组">
+      <created>1592318654232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592318654232</updated>
+    </task>
+    <task id="LOCAL-00003" summary="剑指offer-数组中出现次数超过一半的数字">
+      <created>1592364977959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592364977959</updated>
+    </task>
+    <task id="LOCAL-00004" summary="剑指offer-第一个只出现一次的字符的位置">
+      <created>1592382897114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592382897114</updated>
+    </task>
+    <task id="LOCAL-00005" summary="剑指offer-把数组排成最小的数">
+      <created>1592387020303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592387020303</updated>
+    </task>
+    <task id="LOCAL-00006" summary="剑指offer-表示数值的字符串">
+      <created>1592402404905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592402404905</updated>
+    </task>
+    <task id="LOCAL-00007" summary="剑指offer-合并两个排序链表">
+      <created>1592467018667</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592467018667</updated>
+    </task>
+    <task id="LOCAL-00008" summary="剑指offer-二叉树中和为某一个值的路径">
+      <created>1592476689736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592476689736</updated>
+    </task>
+    <task id="LOCAL-00009" summary="剑指offer-从上往下打印二叉树">
+      <created>1592477129942</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592477129942</updated>
+    </task>
+    <task id="LOCAL-00010" summary="剑指offer-调整数组顺序使奇数位于偶数前面">
+      <created>1592477404276</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592477404276</updated>
+    </task>
+    <task id="LOCAL-00011" summary="剑指offer-数据流中的中位数">
+      <created>1592642775231</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592642775231</updated>
+    </task>
+    <task id="LOCAL-00012" summary="剑指offer-扑克牌顺子">
+      <created>1592646281494</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592646281494</updated>
+    </task>
+    <task id="LOCAL-00013" summary="剑指offer-数据流中的中位数">
+      <created>1592712039659</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592712039659</updated>
+    </task>
+    <task id="LOCAL-00014" summary="剑指offer-替换空格">
+      <created>1592712420402</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592712420402</updated>
+    </task>
+    <task id="LOCAL-00015" summary="剑指offer-二维数组中的查找">
+      <created>1592712779089</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592712779089</updated>
+    </task>
+    <task id="LOCAL-00016" summary="剑指offer-滑动窗口最大值">
+      <created>1592715564756</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1592715564756</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9272000" />
+    <option name="totallyTimeSpent" value="298262000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2586904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -196,20 +602,20 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.43516874" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39253998" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.74600357" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497979" weight="0.41563055" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.502021" side_tool="true" weight="0.41740674" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3250444" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -223,34 +629,529 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="剑指offer-构建乘积数组" />
+    <MESSAGE value="剑指offer-数组中出现次数超过一半的数字" />
+    <MESSAGE value="剑指offer-第一个只出现一次的字符的位置" />
+    <MESSAGE value="剑指offer-把数组排成最小的数" />
+    <MESSAGE value="剑指offer-表示数值的字符串" />
+    <MESSAGE value="剑指offer-合并两个排序链表" />
+    <MESSAGE value="剑指offer-二叉树中和为某一个值的路径" />
+    <MESSAGE value="剑指offer-从上往下打印二叉树" />
+    <MESSAGE value="剑指offer-调整数组顺序使奇数位于偶数前面" />
+    <MESSAGE value="剑指offer-扑克牌顺子" />
+    <MESSAGE value="剑指offer-数据流中的中位数" />
+    <MESSAGE value="剑指offer-替换空格" />
+    <MESSAGE value="剑指offer-二维数组中的查找" />
+    <MESSAGE value="剑指offer-滑动窗口最大值" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer-滑动窗口最大值" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nod1030.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nod1030.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offertest/DiffNumber.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Hello.java">
+    <entry file="file://$PROJECT_DIR$/src/TrueOrFalse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="750">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offertest/JumpFloorI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offertest/GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offertest/ArrayListSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BigNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#106#107#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/简介.txt">
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/Jump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="225">
+          <caret line="48" column="15" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="1" selection-start-column="1" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/CopyNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Enviroments/Java1.8.0_191/jdk/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34375">
+          <caret line="1430" column="49" selection-start-line="1430" selection-start-column="39" selection-end-line="1430" selection-end-column="49" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/ExchangeNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/LinkedListTest/LinkedListTest01.java" />
+    <entry file="jar://D:/Enviroments/Java1.8.0_191/jdk/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1040">
+          <caret line="157" column="14" selection-start-line="157" selection-start-column="9" selection-end-line="157" selection-end-column="14" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/CloneTest.java" />
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/LinkedListTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/Bim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/MaxNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/TryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/NumberQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="28" column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/newCoder/QingTong01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/newCoder/QingTong03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/newCoder/Qingtong02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/FenPei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/Flower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/GetMostGlod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/ReverWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/Ranse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PingFen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/YouHui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/Counts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PaiDui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/ZhongCao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/ShuziChaiFen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/RecPow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/Huiwen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/DaiJinQuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Enviroments/Java1.8.0_191/jdk/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="820" selection-start-line="820" selection-end-line="820" />
+          <folding>
+            <element signature="e#19907#19908#0" expanded="true" />
+            <element signature="e#19950#19951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/BiShiTest/Different.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/BiShiTest/DuiFangkuai.java" />
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/MInSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offertest/ArrayListSearch.java">
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/StringTrueOrFalse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="-532">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SortArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/Climb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/PP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SubStringIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/SumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZJTest/src/JianzhiOfferJAVA/CTreel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="32" column="1" lean-forward="true" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#523#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jianzhioffer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

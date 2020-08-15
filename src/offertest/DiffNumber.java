@@ -62,6 +62,10 @@ public class DiffNumber{
         if(set.size()==0){
             System.out.println("None");
         }else{
+            Set keySet = map.keySet();
+            for (Object key : keySet) {
+                System.out.println(key.toString());
+            }
             for (Object temp1 : set) {
                 System.out.println(map.get(temp1));
             }
